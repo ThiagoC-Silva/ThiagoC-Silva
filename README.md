@@ -1,2 +1,2 @@
-# Olá, bem vindo ao meu espaço!:eyeglasses:   
+# Olá, bem vindo ao meu espaço!:computer::eyeglasses::bulb:   
 
