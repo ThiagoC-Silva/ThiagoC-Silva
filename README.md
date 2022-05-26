@@ -1,4 +1,4 @@
-# Olá, bem vindo ao meu espaço!:computer::eyeglasses::bulb:   
+# Olá, bem vindo ao meu espaço!:computer: 
 ### Tecnologias e Ferramentas:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><img src="https://img.icons8.com/color/344/visual-studio-code-2019.png" width="40" height="40"/>
 
